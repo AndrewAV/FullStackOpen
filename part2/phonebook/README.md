@@ -1,4 +1,4 @@
-# courseinfo
+# phonebook
 
 A simple phonebook application where you can add names and numbers to a list and also filter the list.
 
