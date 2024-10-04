@@ -5,6 +5,7 @@ Shows some imformation about the course. But now it renders an arbitrary number 
 Exercises from https://fullstackopen.com/en/part2/
 2.1 - 2.5
 
+![Screenshot](public/Screenshot.png)
 
 ## Installation and Setup Instructions
 
